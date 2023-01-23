@@ -1,0 +1,12 @@
+int main() {
+  
+     int multiplicador;
+    printf("Qual número vc quer?");
+    scanf ("%d", &multiplicador);
+
+    for (int i = 1; i <=10; i++){
+        int vezes = multiplicador * i;
+        printf("%d x %d = %d\n", multiplicador, i, vezes);
+
+    }
+ }
