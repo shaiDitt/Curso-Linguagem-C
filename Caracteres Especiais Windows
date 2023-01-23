@@ -20,3 +20,4 @@ int main() {
 
   // Retorna codificação padrão do Windows
   SetConsoleOutputCP(CPAGE_DEFAULT);
+  }
